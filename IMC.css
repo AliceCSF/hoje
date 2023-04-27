@@ -1,0 +1,27 @@
+.ala {
+    width: 550px;
+    border: 5px solid rgb(112, 55, 146);
+}
+
+.oi {
+
+    background-color: rgba(112, 18, 129, 0.756);
+    color: rgb(4, 2, 2);
+    border: 5px;
+    border-radius: 40px;
+    font-size: 16px;
+    size: 30px;
+}
+
+
+.mana {
+    color: rgb(112, 55, 146);
+
+
+}
+
+.troia {
+    background-color: rgb(112, 55, 146);
+    border: 0px;
+    color: azure;
+}
